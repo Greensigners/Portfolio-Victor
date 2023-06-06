@@ -1,2 +1,1 @@
-# Portfolio-Victor
-A portfolio for Victor Duran
+# Victor-Portfolio
